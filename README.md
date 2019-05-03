@@ -9,4 +9,4 @@ Bellow are the benchmark results on FashionMNIST:
 
 ![acc](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/acc.png "Validation accuracy during training")
 
-![loss](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/flops_vs_acc.png "FLOPs vs. Accuracy")
+![flops_vs_acc](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/flops_vs_acc.png "FLOPs vs. Accuracy")
