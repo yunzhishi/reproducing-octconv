@@ -5,8 +5,8 @@ I have tested 3 different PyTorch implementations from (braincreators)[https://g
 
 Bellow are the benchmark results on FashionMNIST:
 
-![loss](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/loss.png "Validation loss during training")
+![loss](./results/loss.png "Validation loss during training")
 
-![acc](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/acc.png "Validation accuracy during training")
+![acc](./results/acc.png "Validation accuracy during training")
 
-![flops_vs_acc](https://github.com/yunzhishi/reproducing-octconv/raw/master/results/flops_vs_acc.png "FLOPs vs. Accuracy")
+![flops_vs_acc](./results/flops_vs_acc.png "FLOPs vs. Accuracy")
